@@ -3,4 +3,4 @@
 
   Iniciando desenvolvimento de sites e gerenciando repositórios
 
-  <a href="https://tiario.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001</a>
+  <a href="https://tiario.github.io/html-css/exercicios/ex001/index.html" traget="_blanck">Executar o exercício 001</a>
